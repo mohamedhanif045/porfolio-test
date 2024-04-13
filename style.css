@@ -1,0 +1,52 @@
+header{
+    color: red;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+ nav ul{
+    text-align: center;
+    list-style-type:decimal;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+nav li{
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    color: black;
+}
+main {
+    padding: 20px;
+    text-align: center;
+  }
+
+  main section {
+    margin-bottom: 20px;
+  }
+  main section h2 {
+    color:black;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+   
+  body {
+    background-color:orange;
+  }
+
+  input type[name=text]{
+    background-color: brown;
+  }
